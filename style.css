@@ -1,0 +1,51 @@
+body{
+	font-family:sans-serif;
+}
+
+h1 {
+	color: green;
+}
+
+h2 {
+	color:green;
+}
+h3 {
+	color: blue;
+}
+
+.title-big{
+	color:blue;
+}
+.paragraph{
+	color:blue;
+}
+.header{
+	background:grey;
+	padding:20px 10px 5px 0px;
+	font-size:14px;
+	
+	
+}
+.main{
+	background:lightgrey;
+	
+}
+.main p{
+	text-align:justify;
+}
+.footer {
+	background:grey;
+}
+.header img {
+	width: 100%;
+	height:auto;
+}
+.header-nav{
+	margin:20px 0;
+	text-align:center;
+}
+.header-nav a{
+	padding:0 50px;
+	background:lightgreen;
+	color:blue;
+}
